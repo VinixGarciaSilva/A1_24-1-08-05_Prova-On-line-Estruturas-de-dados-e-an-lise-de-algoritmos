@@ -1,6 +1,6 @@
 package JAVA;
 
-public class Main {
+public class App{
     public static void main(String[] args) {
         ListaEncadeada a = new ListaEncadeada();
         ListaEncadeada b = new ListaEncadeada();
